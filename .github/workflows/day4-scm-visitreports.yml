@@ -236,7 +236,7 @@ jobs:
       textanalyticsFunctionName: ${{ steps.infrastructure.outputs.textanalyticsFunctionName }}
 
     env:
-      RESOURCE_GROUP_NAME: rg-scm-testday4
+      RESOURCE_GROUP_NAME: user11-rg-scm-testday4
       RESOURCE_GROUP_LOCATION: westeurope
       ENV_NAME: testd4
 

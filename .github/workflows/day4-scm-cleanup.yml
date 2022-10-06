@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       RG_DEV: user11-rg-scm-devday4
-      RG_TEST: rg-scm-testday4
+      RG_TEST: user11-rg-scm-testday4
 
     steps:
       - name: Inject slug/short variables
