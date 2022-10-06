@@ -50,7 +50,7 @@ jobs:
     environment: day4-scm-dev
     needs: build
     env:
-      RESOURCE_GROUP_NAME: rg-scm-devday4
+      RESOURCE_GROUP_NAME: user11-rg-scm-devday4
       RESOURCE_GROUP_LOCATION: westeurope
       ENV_NAME: devd4
 
