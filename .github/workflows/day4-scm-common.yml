@@ -1,5 +1,5 @@
 name: day4-scm-common
-
+  
 on:
   push:
     branches:
@@ -15,7 +15,7 @@ on:
       - .github/workflows/day4-scm-common.yml
 
   workflow_dispatch:
-
+ 
 env:
   BICEP_FILE_NAME: "commonmain.bicep"
 
